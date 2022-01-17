@@ -1,4 +1,4 @@
-echo "This is my first job demo"
+echo "This is my first job demo completed"
 date
 cal
 ls
